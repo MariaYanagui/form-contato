@@ -33,7 +33,7 @@ de tipos de dados de entrada e Widgets de controle estão disponíveis, dependen
 # 📎REFERÊNCIAS
 * <a href =https://www.alura.com.br/artigos/escrever-bom-readme>COMO ESCREVER UM README</a>
 * <a href = https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89#-instala%C3%A7%C3%A3o>UM MODELO PARA FAZER UM BOM README.md</a>
-* <a href = https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form> FORMÚLARIO DE ELEMENTO</a>
+* <a href = https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form> FORMULÁRIO DE ELEMENTO</a>
 
 
  
