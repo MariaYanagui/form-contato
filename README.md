@@ -1,8 +1,8 @@
-# FORM- CONTAT
+# FORM- CONTATO
 
 * FORMULÁRIO DE CONTATO
 
-🚀 COMEÇANDO 
+# 🚀 COMEÇANDO 
 
 * O FORMULÁRIO DE CONTATO é onde o usuário consegue se comunicar com o criador do site mandando mensagem para tirar suas dúvidas ou resolver algum problema ou bug da página, basta a pessoa escrever seu E-MAIL, qual é o ASSUNTO que quer tratar e em seguida descrever o problema ou o bug em MENSAGEM.
 ![Tela de inicio](inicio%20da%20pagina.png)
@@ -14,7 +14,7 @@
 * VSCODE 
 * GIT BASH HERE
 
-💻 ELEMENTOS UTILIZADOS 
+# 💻 ELEMENTOS UTILIZADOS 
 
 * FORM: O elemento HTML <form> representa uma seção de documento que contém controles
 interativos para enviar informações.
@@ -26,11 +26,11 @@ de tipos de dados de entrada e Widgets de controle estão disponíveis, dependen
 * SPAN: Ele deve ser usado somente quando nenhum outro elemento semântico é apropriado.É muito parecido com um elemento <div> mas <div> é um elemento de nível de bloco, enquanto a é um elemento de nível embutido.<span><span>
 
 
-🖊️ AUTORES 
+# 🖊️ AUTORES 
 * Maria Yanagui - dona 
 * Guilherme Serafim e Rhauany Rodrigues - ajudou a desenvolver o trabalho  
 
-📎REFERÊNCIAS
+# 📎REFERÊNCIAS
 * <a href =https://www.alura.com.br/artigos/escrever-bom-readme>COMO ESCREVER UM README</a>
 * <a href = https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89#-instala%C3%A7%C3%A3o>UM MODELO PARA FAZER UM BOM README.md</a>
 * <a href = https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form> FORMÚLARIO DE ELEMENTO</a>
