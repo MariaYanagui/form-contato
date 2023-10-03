@@ -28,8 +28,7 @@ de tipos de dados de entrada e Widgets de controle estão disponíveis, dependen
 
 🖊️ AUTORES 
 * Maria Yanagui - dona 
-* Guilherme - colega
-* Rhauany - colega  
+* Guilherme Serafim e Rhauany Rodrigues - ajudou a desenvolver o trabalho  
 
 📎REFERÊNCIAS
 * <a href =https://www.alura.com.br/artigos/escrever-bom-readme>COMO ESCREVER UM README</a>
